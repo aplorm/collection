@@ -43,4 +43,4 @@ if (isset($this->map[$id])) {
 return null;
 ```
 
-But this implementation give a parade for the third and last point.
+But this package give a parade for the third and last point.
